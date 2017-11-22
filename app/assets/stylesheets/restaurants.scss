@@ -1,3 +1,22 @@
 // Place all the styles related to the restaurants controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+.card {
+  background: #FFFFFF;
+  box-shadow: 1px 1px 2px #e7e7e7;
+  border-radius: 4px;
+  max-width: 300px;
+  margin: 20px;
+  text-align: center;
+  padding: 10px;
+}
+
+body {
+  background-color: #F1F1F1;
+}
+
+h3 {
+  text-align: center;
+}
+
+
